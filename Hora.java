@@ -9,7 +9,7 @@ public class Hora {
     }
 
 
-    /*Métodos de acceso (getters andd setters)*/
+    /*Métodos de acceso (getters)*/
     public int getHoras() {
         return horas;
     }
